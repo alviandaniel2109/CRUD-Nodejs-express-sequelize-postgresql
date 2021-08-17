@@ -8,3 +8,11 @@
 4. Express
 ```
 ## Create Database testd 
+
+## Running application in Command Prompt or terminal
+
+```
+npm start
+or
+Node server.js
+```
